@@ -1,0 +1,8 @@
+Description: Writing functions for matchmaking purposes
+
+
+To-Do:
+- Update matchPlayers function to incorporate game ID [DONE]
+- Add reset function
+- Add addGameID function
+- Add in response codes [Not started]
